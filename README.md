@@ -7,10 +7,6 @@ TypeScript frontend engineering, and deploying production systems on AWS. Experi
 systems, optimizing databases, and delivering reliable end-to-end solutions in remote environments.
 
 
-<a href='https://jason-portfolio-six.vercel.app/'>My Portfolio</a>
-<br/>
-<a href='https://www.dropbox.com/scl/fi/qvarrk3frpci8hnndjtb0/Jason_Ching.pdf?rlkey=qimhg8idy9vdzgmkiz8ptpv94&e=1&st=5xbql8a1&dl=0'>My Resume</a>
-
 ## 🛠️ Technologies and Tools I use:
 <p>
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>

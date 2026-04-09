@@ -1,18 +1,11 @@
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Jason Ching</h1>
-
-<div align="center">
-  <img src ="./banner.png" />
-</div>
-
  <br/>
-
-## 👨🏻‍💻 About Me:
+ <br/>
 
 **[My Website](https://jason-portfolio-six.vercel.app/)**
  <br/>
- <br/>
 **[My Resume](https://www.dropbox.com/scl/fi/qvarrk3frpci8hnndjtb0/Jason_Ching.pdf?rlkey=qimhg8idy9vdzgmkiz8ptpv94&e=1&st=5xbql8a1&dl=0)**
-
+<br/>
 Senior Full-Stack Engineer with 7 years of hands-on experience building scalable SaaS platforms, cloud- native
 services, and high-performance APIs. Strong expertise in Python and Node.js backend development, modern React and
 TypeScript frontend engineering, and deploying production systems on AWS. Experienced in designing distributed

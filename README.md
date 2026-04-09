@@ -8,11 +8,9 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
-
-- 🙋‍♂️ All about me:
-
 **[My Website](https://jason-portfolio-six.vercel.app/)**
+ <br/>
+ <br/>
 **[My Resume](https://www.dropbox.com/scl/fi/qvarrk3frpci8hnndjtb0/Jason_Ching.pdf?rlkey=qimhg8idy9vdzgmkiz8ptpv94&e=1&st=5xbql8a1&dl=0)**
 
 Senior Full-Stack Engineer with 7 years of hands-on experience building scalable SaaS platforms, cloud- native

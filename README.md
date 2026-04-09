@@ -1,5 +1,6 @@
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Jason Ching</h1>
 <br/>
+<br/>
 Senior Full-Stack Engineer with 7 years of hands-on experience building scalable SaaS platforms, cloud- native
 services, and high-performance APIs. Strong expertise in Python and Node.js backend development, modern React and
 TypeScript frontend engineering, and deploying production systems on AWS. Experienced in designing distributed
@@ -7,7 +8,6 @@ systems, optimizing databases, and delivering reliable end-to-end solutions in r
 
 https://jason-portfolio-six.vercel.app/
 https://www.dropbox.com/scl/fi/qvarrk3frpci8hnndjtb0/Jason_Ching.pdf?rlkey=qimhg8idy9vdzgmkiz8ptpv94&e=1&st=5xbql8a1&dl=0
-
 ## 🛠️ Technologies and Tools I use:
 <p>
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
